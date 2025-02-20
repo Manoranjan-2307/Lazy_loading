@@ -1,0 +1,1 @@
+import{j as e}from"./index-BHMCNQeD.js";const t=()=>e.jsxs("div",{children:[e.jsx("h2",{children:"Page3"}),e.jsx("p",{children:"In the realm of software development, collaboration and continuous learning are key. By sharing knowledge and working together, we can build solutions that are greater than the sum of their parts."})]});export{t as default};

@@ -1,0 +1,1 @@
+import{j as e}from"./index-BHMCNQeD.js";const o=()=>e.jsxs("div",{children:[e.jsx("h2",{children:"Page4"}),e.jsx("p",{children:"Open source software has revolutionized the tech industry, fostering innovation through shared knowledge and community-driven development. It's a testament to the power of collaboration in the digital age."})]});export{o as default};

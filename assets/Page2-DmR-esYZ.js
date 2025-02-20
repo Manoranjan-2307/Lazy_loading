@@ -1,0 +1,1 @@
+import{j as e}from"./index-BHMCNQeD.js";const t=()=>e.jsxs("div",{children:[e.jsx("h2",{children:"Page2"}),e.jsx("p",{children:"Technology is the bridge between imagination and reality. With every innovation, we push the boundaries of what's possible, creating a future limited only by our creativity and determination."})]});export{t as default};

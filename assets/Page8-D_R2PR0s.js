@@ -1,0 +1,1 @@
+import{j as i}from"./index-BHMCNQeD.js";const e=()=>i.jsxs("div",{children:[i.jsx("h2",{children:"Page8"}),i.jsx("p",{children:"Blockchain technology is revolutionizing industries by providing secure, transparent, and decentralized solutions. From finance to supply chain, its potential applications are vast and transformative."})]});export{e as default};

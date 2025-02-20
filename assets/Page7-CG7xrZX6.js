@@ -1,0 +1,1 @@
+import{j as t}from"./index-BHMCNQeD.js";const r=()=>t.jsxs("div",{children:[t.jsx("h2",{children:"Page7"}),t.jsx("p",{children:"Cybersecurity is more critical than ever in our interconnected world. Protecting data and systems from threats is essential for maintaining trust and ensuring the safety of digital infrastructure."})]});export{r as default};

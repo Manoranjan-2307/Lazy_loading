@@ -1,0 +1,1 @@
+import{j as e}from"./index-BHMCNQeD.js";const s=()=>e.jsxs("div",{children:[e.jsx("h2",{children:"Page6"}),e.jsx("p",{children:"Cloud computing has become the backbone of modern technology, enabling scalable and flexible solutions that power businesses and services worldwide. It's the foundation of our digital future."})]});export{s as default};

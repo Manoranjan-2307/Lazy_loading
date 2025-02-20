@@ -1,0 +1,1 @@
+import{j as i}from"./index-BHMCNQeD.js";const n=()=>i.jsxs("div",{children:[i.jsx("h2",{children:"Page5"}),i.jsx("p",{children:"Artificial intelligence is transforming industries and reshaping the way we work and live. From healthcare to finance, AI is driving innovation and creating new possibilities for the future."})]});export{n as default};
